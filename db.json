@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 9
     },
     {
       "id": 2,
@@ -27,7 +27,7 @@
     {
       "id": 5,
       "name": "Rex",
-      "image": "https://static.wikia.nocookie.net/disney/images/5/56/Profile_-_Rex.jpeg/revision/latest?cb=20190313050619",
+      "image": "https://w7.pngwing.com/pngs/17/532/png-transparent-rex-toy-story-sheriff-woody-lelulugu-pixar-toy-story-background-tyrannosaurus-terrestrial-animal-velociraptor.png",
       "likes": 1
     },
     {
@@ -47,6 +47,12 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": 1
+    },
+    {
+      "name": "Zorg",
+      "image": "https://www.usatoday.com/gcdn/presto/2020/11/18/USAT/0ca2aa32-8b22-4cf3-99dd-fd4e7c12a68b-tscp_zurg.personality16G.1.jpg",
+      "likes": 1,
+      "id": 9
     }
   ]
 }
